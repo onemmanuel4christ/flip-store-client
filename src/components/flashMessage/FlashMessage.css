@@ -1,0 +1,10 @@
+.flash__message{
+    width: 100%;
+    height: 80px;
+}
+
+.flash__image{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
